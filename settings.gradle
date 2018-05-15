@@ -1,0 +1,1 @@
+include ':app', ':list', ':mycalendar', ':bitmapoptmize', ':base', ':dnbus', ':dndao', ':dndao'

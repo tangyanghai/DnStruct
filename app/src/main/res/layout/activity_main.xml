@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+    android:orientation="vertical">
+
+    <com.example.administrator.dnstruct.view.CustomTitleView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        style="@style/title"
+        app:title_name="ceshi"
+        app:title_left_img="@mipmap/ic_launcher"
+        app:title_right_img="@mipmap/ic_launcher_round"
+        app:title_right_name="右边"
+        app:title_right_color="@android:color/black"
+        app:title_right_distance="5dp"
+        app:title_right_size="18sp"
+        app:title_left_name="返回"
+        app:title_left_size="18sp"
+        app:title_left_set_default_click_listener="true"
+        app:title_left_color="@android:color/black"
+        app:title_left_img_align_text="left"
+        app:title_left_distance="5dp"
+        >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="heh"
+            android:textColor="@android:color/black"
+            android:textSize="80sp"
+            android:layout_centerInParent="true"
+            />
+    </com.example.administrator.dnstruct.view.CustomTitleView>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/img_test"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@mipmap/ic_launcher"
+            android:layout_marginLeft="35dp"
+            android:layout_centerVertical="true"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="返回"
+            android:layout_toEndOf="@+id/img_test"
+            android:layout_marginLeft="5dp"
+            android:layout_centerVertical="true"
+            android:textSize="18sp"
+            android:textColor="@android:color/black"
+            />
+
+        <TextView
+            android:layout_centerInParent="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="ceshi"
+            android:textColor="@android:color/black"
+            android:textSize="50sp" />
+
+    </RelativeLayout>
+
+
+
+</LinearLayout>

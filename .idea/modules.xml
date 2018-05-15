@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DnStruct.iml" filepath="$PROJECT_DIR$/DnStruct.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/base/base.iml" filepath="$PROJECT_DIR$/base/base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bitmapoptmize/bitmapoptmize.iml" filepath="$PROJECT_DIR$/bitmapoptmize/bitmapoptmize.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dnbus/dnbus.iml" filepath="$PROJECT_DIR$/dnbus/dnbus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dndao/dndao.iml" filepath="$PROJECT_DIR$/dndao/dndao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/list/list.iml" filepath="$PROJECT_DIR$/list/list.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mycalendar/mycalendar.iml" filepath="$PROJECT_DIR$/mycalendar/mycalendar.iml" />
+    </modules>
+  </component>
+</project>
