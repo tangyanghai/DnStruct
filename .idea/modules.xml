@@ -8,7 +8,9 @@
       <module fileurl="file://$PROJECT_DIR$/bitmapoptmize/bitmapoptmize.iml" filepath="$PROJECT_DIR$/bitmapoptmize/bitmapoptmize.iml" />
       <module fileurl="file://$PROJECT_DIR$/dnbus/dnbus.iml" filepath="$PROJECT_DIR$/dnbus/dnbus.iml" />
       <module fileurl="file://$PROJECT_DIR$/dndao/dndao.iml" filepath="$PROJECT_DIR$/dndao/dndao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dnhttp/dnhttp.iml" filepath="$PROJECT_DIR$/dnhttp/dnhttp.iml" />
       <module fileurl="file://$PROJECT_DIR$/list/list.iml" filepath="$PROJECT_DIR$/list/list.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myapplication/myapplication.iml" filepath="$PROJECT_DIR$/myapplication/myapplication.iml" />
       <module fileurl="file://$PROJECT_DIR$/mycalendar/mycalendar.iml" filepath="$PROJECT_DIR$/mycalendar/mycalendar.iml" />
     </modules>
   </component>
